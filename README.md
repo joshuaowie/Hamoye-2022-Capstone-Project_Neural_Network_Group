@@ -1,1 +1,1 @@
-# Hamoye-2022-Capstone-Project_Neural_Network_Group
+# Hamoye Summer 2022 Capstone Project: Neural Network Team
