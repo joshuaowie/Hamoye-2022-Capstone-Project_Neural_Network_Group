@@ -1,5 +1,0 @@
-altair==4.2.0
-pandas
-streamlit
-numpy
-pickle
